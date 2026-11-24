@@ -1,0 +1,65 @@
+[
+  {
+    "id": "hosetrack",
+    "name": "HoseTrack",
+    "category": "Industrial maintenance",
+    "tagline": "Record every hydraulic hose failure and see where the problems start.",
+    "status": "Working app, version 1.1.0",
+    "audience": "Mining contractors, hydraulic workshops, mine maintenance departments and fleet operators.",
+    "summary": "HoseTrack helps maintenance teams keep proper records of hydraulic hose failures, replacements and servicing, so the same breakdowns stop repeating.",
+    "features": [
+      "Log a hose failure against a machine, with the hose type and size",
+      "Attach photos of the failed hose",
+      "Keep machine lists and your own choice lists",
+      "See reports with charts of what is failing",
+      "Export your records",
+      "Records are stored on the phone",
+      "Can be connected to a company system such as Pronto, through a service built by the company's IT team"
+    ],
+    "why": "Over time the records show which hoses fail repeatedly and where breakdowns come from, which supports preventative checks during servicing.",
+    "apk": "",
+    "demo_url": "",
+    "video_url": ""
+  },
+  {
+    "id": "freshmart",
+    "name": "FreshMart",
+    "category": "Small business",
+    "tagline": "Simple stock and sales for the grocery shop owner.",
+    "status": "Working prototype",
+    "audience": "Individual grocery shop owners who run one shop.",
+    "summary": "FreshMart helps a shop owner see what is in stock, record what comes in and what is sold, and spot items that are running low.",
+    "features": [
+      "Two simple modes: Stock in and Sell",
+      "Add products with a photo",
+      "Speak to the app to record items",
+      "Quickly filter products that are low or out of stock",
+      "Settings to suit your shop"
+    ],
+    "why": "",
+    "apk": "",
+    "demo_url": "",
+    "video_url": ""
+  },
+  {
+    "id": "powerpay",
+    "name": "PowerPay",
+    "category": "Utilities",
+    "tagline": "Buy prepaid electricity from your phone.",
+    "status": "Prototype",
+    "audience": "Electricity utilities and their customers.",
+    "summary": "PowerPay is a prototype that lets a customer buy prepaid electricity and report faults from their phone, while staff follow sales and faults on their own dashboard.",
+    "features": [
+      "Customer app: buy electricity and confirm the purchase",
+      "See your purchase history and account",
+      "Report a fault and check its progress",
+      "Staff dashboard: sales per day and sales by payment network",
+      "Staff dashboard: see reported faults and update their status",
+      "Staff dashboard: view customers"
+    ],
+    "why": "",
+    "apk": "",
+    "demo_url": "",
+    "video_url": ""
+  }
+]
